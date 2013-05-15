@@ -24,6 +24,7 @@
     /// </summary>
     private void InitializeComponent() {
       this.components = new System.ComponentModel.Container();
+      System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
       this.ClipboardItems = new System.Windows.Forms.ListBox();
       this.ReloadTimer = new System.Windows.Forms.Timer(this.components);
       this.SuspendLayout();
@@ -50,6 +51,7 @@
       this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
       this.ClientSize = new System.Drawing.Size(284, 245);
       this.Controls.Add(this.ClipboardItems);
+      this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
       this.MaximizeBox = false;
       this.Name = "Form1";
       this.Text = "Zwischenablage";

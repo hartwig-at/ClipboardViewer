@@ -17,6 +17,7 @@ namespace ClipboardViewer {
     }
 
     private void DisplayClipboardItems() {
+      ClipboardItems.Items.Clear();
       IDataObject dataObject = Clipboard.GetDataObject();
       if( dataObject != null ) {
         string[] formats = dataObject.GetFormats();

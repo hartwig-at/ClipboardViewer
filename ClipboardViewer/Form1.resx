@@ -120,4 +120,24 @@
   <metadata name="ReloadTimer.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAEBAAAAEAGABoAwAAFgAAACgAAAAQAAAAIAAAAAEAGAAAAAAAAAAAACMuAAAjLgAAAAAAAAAA
+        AAA5O9ktMdctMdcuMdctMtcuMdctMdctMdYuMdcuMdcuMtcuMdctMdctMdcuMdc4O9ksL9YjJ9UjJ9Qj
+        J9UkKNUjJ9UkJ9UkJ9UjJ9UjJ9UjJ9UkKNUjJ9UjJ9UkJ9UrL9YuMdcjJ9UjJ9UjJ9UkKNUjJ9UkJ9Uk
+        J9UjJ9QkJ9QjJ9UjJ9UjJ9UkKNUkJ9UtMdctMdcjJ9UkKNUjJ9UjJ9UkJ9UkJ9UjJ9UjJ9UjJ9UjJ9Qk
+        KNUkKNUjJ9UjJ9UtMdcuMdckKNUkKNUjJ9UjJ9UjJ9UjJ9UjJ9UjJ9QjJ9UjJ9UjJ9UjJ9UjJ9UjKNUu
+        MdctMdckJ9UjJ9UkKNUjJ9UjJ9UkKNUkJ9UjJ9UkJ9UjKNUjJ9UjJ9UjJ9UkJ9UtMdctMdckKNUjJ9Uk
+        KNUkKNUkJ9UkKNUfI9QWGtIWGtIWGtIWGtIXGtIWGtIWGtIhJdQuMdcjJ9UjJ9UjJ9UjJ9UjJ9UfI9Q5
+        PNloauJpbONqbONpbONpbONqbONpbONwc+QtMtckJ9UkJ9UkJ9UjJ9UkJ9UVGdJsb+P///////z///z/
+        //z///z///z///z///wuMtckJ9UjJ9UkKNUkKNUjJ9UWGtJpbOP///yvsresrrSur7WusLatsLWusLWy
+        tLgtMdcjJ9UjJ9UjJ9UkKNUjJ9UWGtJpbOP///ysr7SprLKqrbOrrbOqrbOqrbKusbctMdcjJ9UjJ9Uj
+        J9UkKNUkJ9UWGtJpbOP///ytsLWrrbOsrrSrrrSrrrSrrrOvsrgtMdcjJ9UjJ9UkJ9UjJ9UjJ9UWG9Jp
+        bOP///ytsLWqrbOrrrOsrrSrrrSrrrOvsrguMdcjJ9UjJ9UkJ9UkJ9UjJ9UWGtJpbOP///yusLWqrbKr
+        rrOrrrOrrrOrrrOvsrgrL9YjJ9UjJ9UjJ9UkJ9UjJ9UWGtJqbOP///ytsLWqrbOrrrOrrrOrrrOrrrSu
+        sLY4O9guMdctMdctMdctMdcuMdchJdRxc+T///yxtLivsbevsbevsrevsrivsre0trsAAP//AAD//wAA
+        //8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAAAAAAAAAA
+</value>
+  </data>
 </root>
